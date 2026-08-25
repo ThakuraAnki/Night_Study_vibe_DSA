@@ -21,7 +21,6 @@ int main(){
         cin>>price[i];
     }
 
-
     for(int i=1;i<=n;i++){
         for(int cap=1;cap<=capacity;cap++){
                 int op1=INT_MIN,op2=INT_MIN;
